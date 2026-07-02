@@ -25,7 +25,7 @@ SafeRoad is a pedestrian detection and orientation classification dataset collec
 - **7,800 bounding boxes** annotated with 8 orientation classes
 - **8-class orientation taxonomy**: Front, Back, Left, Right, Left-Front, Left-Back, Right-Front, Right-Back
 - **Two annotation formats**: YOLO (YOLOv8) and COCO JSON (Faster R-CNN, DETR)
-- Collected from **2 Moroccan cities** with structured and unstructured environments
+- Collected from **several Moroccan cities** with structured and unstructured environments
 
 ---
 
