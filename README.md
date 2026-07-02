@@ -85,8 +85,7 @@ SafeRoad-Dataset/
 │       │   └── annotations.json
 │       └── test/
 │           └── annotations.json
-├── examples/
-│   └── sample_annotation.jpg   ← Sample annotated image
+├── 
 └── README.md
 ```
 
