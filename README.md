@@ -34,7 +34,7 @@ SafeRoad is a pedestrian detection and orientation classification dataset collec
 | Class | Angle Range | Instances |
 |-------|-------------|-----------|
 | Back | 157.5° – 202.5° | 2,472 |
-| Front | 337.5° – 22.5° | 1,477 |
+| Front | −22.5° – 22.5° | 1,477 |
 | Left | 247.5° – 292.5° | 1,146 |
 | Right | 67.5° – 112.5° | 1,100 |
 | Right-Back | 112.5° – 157.5° | 647 |
