@@ -71,7 +71,7 @@ SafeRoad is a pedestrian detection and orientation classification dataset collec
 This repository contains **annotations only**. Images are available upon request (see [Access](#-access--download) section below).
 
 ```
-ADAS_Dataset/
+SafeRoad-Dataset/
 ├── annotations/
 │   ├── yolo/
 │   │   ├── labels/
