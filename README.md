@@ -80,11 +80,11 @@ SafeRoad-Dataset/
 │   │   └── dataset.yaml        ← YOLOv8 configuration file
 │   └── coco/
 │       ├── train/
-│       │   └── instances_train.json
+│       │   └── annottaions.json
 │       ├── val/
-│       │   └── instances_val.json
+│       │   └── annottaions.json
 │       └── test/
-│           └── instances_test.json
+│           └── annottaions.json
 ├── examples/
 │   └── sample_annotation.jpg   ← Sample annotated image
 └── README.md
